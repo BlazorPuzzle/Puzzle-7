@@ -106,3 +106,14 @@ a, .btn-link {
 	color: white;
 	text-decoration: underline;
 }
+
+.gridFooter {
+	background-color: royalblue;
+	color: white;
+	text-decoration: underline;
+}
+
+.darkMode tbody td {
+	background-color: #333;
+	color:#e0e0e0;
+}
